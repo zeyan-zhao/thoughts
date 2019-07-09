@@ -1,3 +1,2 @@
 # thoughts
-all of my messy thoughts
-zzy
+all of my messy thoughts\zzy
